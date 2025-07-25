@@ -8,7 +8,7 @@ Sou um profissional com mais de 10 anos como técnico e analista de Suporte de T
 
 Especializado em suporte técnico, destaco-me em sistemas operacionais e servidores Windows, impressoras e softwares. Experiência abrangente em equipamentos de informática, hardware e software, gestão de usuários no Active Directory e acesso remoto. Proficiente na instalação, configuração, montagem e manutenção, além da elaboração de normas e procedimentos, contribuindo para a eficiência e excelência no suporte TI.
 
-✅ Sou formado em Sistemas da Informação cursado na faculdade Unigranrio.
+✅ Sou formado em Sistemas da Informação cursado na faculdade [Unigranrio](https://unigranrio.edu.br/).
 
 </p>
 </p>
