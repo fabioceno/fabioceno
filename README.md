@@ -6,23 +6,7 @@ Me chamo Fábio! Sou um profissional com mais de 10 anos como técnico e analist
 
 Especializado em suporte técnico, destaco-me em sistemas operacionais e servidores Windows, impressoras e softwares. Experiência abrangente em equipamentos de informática, hardware e software, gestão de usuários no Active Directory e acesso remoto. Proficiente na instalação, configuração, montagem e manutenção, além da elaboração de normas e procedimentos, contribuindo para a eficiência e excelência no suporte TI.
 
-✅ Adicionando conhecimento em Cloud Computing: AZ-900 ✔ | MS-900 ✔ | AZ-104 📚 
-
-✅ Adicionando conhecimentos em T.I: NSE 1 ✔ | ISO/IEC 27001 ✔ | LGPDF ✔ | ITIL V3 ✔
-
-✅ Atuei no mapeamento e elaboração de procedimentos técnicos para alimentar a base de conhecimento da central de chamados corporativos.
-
 ✅ Sou formado em Sistemas da Informação cursado na faculdade Unigranrio.
-
-✅ Eu me interesso pelas seguintes temáticas: 
-
-<p>✔ Administração de contas de usuários;
-</p>✔ Controle de acessos à rede (Firewall - PFsense);
-</p>✔ Controle e gerenciamento de controle de acessos (Active Directory);
-</p>✔ Segurança da Informação;
-</p>✔ Elaboração de procedimentos; 
-</p>✔ Manutenção e configuração de equipamentos como computadores, notebooks e servidores, Sistemas operacionais;
-</p>✔ Virtualização de Servidores e PCs.
 
 </p>
 </p>
