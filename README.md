@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Fábio N Silva
 
-**`Analista Cloud | Analista Computação Nuvem | Analista de Suporte TI | Analista de Infraestrutura TI `**
-
 Olá! Me chamo Fábio.
 
 Sou um profissional com mais de 10 anos como técnico e analista de Suporte de TI com passagem por empresas de renome como [LOTERJ](https://www.loterj.rj.gov.br), [Grupo Fleetcor Brasil](https://www.semparar.com.br), [Sonda IT](https://www.sonda.com/pt) e [Indra Company](https://www.minsait.com/pt). 
