@@ -18,7 +18,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
         <img 
             alt="Microsoft" 
             title="Me siga no Microsoft Learning" 
-            src="https://img.shields.io/badge/Microsoft_Learning-red?style=flat-square"
+            src="https://img.shields.io/badge/Microsoft_Learning-red?style=for-the-badge"
         />
     </a>        
         <a href="mailto:fnsilva.ti@gmail.com">
