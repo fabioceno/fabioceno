@@ -47,7 +47,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
     title="Microsoft Azure Fundamentals" 
     width="50px" 
     style="padding-right: 20px;" 
-    src="https://img.icons8.com/?size=48&id=VLKafOkk3sBX&format=png" 
+    src="https://github.com/fabioceno/img/blob/14fa87bab48b8e8f87185f604ac5a2ebfdf8681e/AZ900.png" 
 />
 <img 
     align="left" 
@@ -55,7 +55,15 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
     title="Microsoft 365 Fundamentals"
     width="50px" 
     style="padding-right: 20px;" 
-    src="https://img.icons8.com/?size=48&id=g7UKWvv49CoI&format=png" 
+    src="https://github.com/fabioceno/img/blob/14fa87bab48b8e8f87185f604ac5a2ebfdf8681e/Ms900.png" 
+/>
+<img 
+    align="left" 
+    alt="Itil v3" 
+    title="Itil v3 Foundations"
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://github.com/fabioceno/img/blob/14e9da7c207bc5d8a9154cb9be539fc3b5adccfb/Itil-v3.png" 
 />
 
 <br/>
