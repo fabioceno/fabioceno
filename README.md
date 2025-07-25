@@ -61,8 +61,8 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
     align="left" 
     alt="Itil v3" 
     title="Itil v3 Foundations"
-    width="80px" 
-    style="padding-right: 20px;" 
+    width="70px" 
+    style="padding-right: 10px;" 
     src="https://github.com/fabioceno/img/blob/14e9da7c207bc5d8a9154cb9be539fc3b5adccfb/Itil-v3.png" 
 />
 
