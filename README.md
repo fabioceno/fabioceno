@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Fábio Nepomuceno
+# 💻 Fábio Nepomuceno
 
 Olá! Obrigado por visitar meu Github.
 
@@ -10,7 +10,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
 
 
 
-## 🚀 Certificações
+## 🚀 Certificações 🏆
 
 <img 
     align="left" 
@@ -41,7 +41,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
 <br/>
 <br/>
 
-## 📧 Rede Sociais & Contatos
+## 📡Rede Sociais & 📩 Contatos
 
 <div align="left">
             <a href="https://learn.microsoft.com/pt-br/users/fabioceno">
@@ -70,52 +70,61 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
     </a>
 </div>
 
-## 📧 Conhecimentos
+## 👨‍🎓 Conhecimentos
 
 <div align="left">
         <img 
             alt="Windows Server" 
             src="https://img.shields.io/badge/Windows%20Server-darkblue?style=for-the-badge"target="_blank"
-        />
+            title="Windows Server"
+            />
         <img width="12" />
         <img 
             alt="PFsense" 
             src="https://img.shields.io/badge/Pfsense-white?style=for-the-badge&logo=pfsense&logoColor=darkblue"target="_blank"
+            title="Firewall PFsense"
         />
         <img width="12" />
         <img 
             alt="Windows 10" 
             src="https://img.shields.io/badge/Windows%2010-blue?style=for-the-badge"target="_blank"
+            title="Windows 10 Client"
         />
         <img width="12" />
         <img 
             alt="Windows 11" 
             src="https://img.shields.io/badge/Windows%2011-lightblue?style=for-the-badge"target="_blank"
+            title="Windows 11 Client"
         />
         <img width="12" />
         <img 
             alt="Hyper V" 
             src="https://img.shields.io/badge/Hyper%20v-darkgreen?style=for-the-badge"target="_blank"
+            title="Microsoft Hyper V"
         />
         <img width="12" />
         <img 
             alt="Windows Admin Center" 
             src="https://img.shields.io/badge/Windows%20Admin%20Center-grey?style=for-the-badge"target="_blank"
+            title="Windows Admin Center"
         />
       <img width="12" />
         <img 
             alt="Microsoft Active Directory" 
             src="https://img.shields.io/badge/Active%20Directory-blue?style=for-the-badge"target="_blank"  
+            title="Microsoft Active Directory"
         />
       <img width="12" />            
         <img 
             alt="Ventoy" 
-            src="https://img.shields.io/badge/Ventoy-darkblue?style=for-the-badge"target="_blank"  
+            src="https://img.shields.io/badge/Ventoy-darkblue?style=for-the-badge"target="_blank"
+            title="Ventoy Bootable"
         />
       <img width="12" />
         <img 
             alt="iVentoy" 
-            src="https://img.shields.io/badge/iVentoy-darkred?style=for-the-badge"target="_blank"  
+            src="https://img.shields.io/badge/iVentoy-darkred?style=for-the-badge"target="_blank" 
+            title="iVentoy Bootable PXE"
         />
       <img width="12" />
             
