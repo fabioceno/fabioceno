@@ -65,8 +65,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
             <a href="https://learn.microsoft.com/pt-br/users/fabioceno">
         <img 
             alt="Microsoft" 
-            title="Me siga no Microsoft Learning" 
-            src="https://img.shields.io/badge/Microsoft_Learning-red?style=for-the-badge"//target="_blank"
+            title="Me siga no Microsoft Learning" src="https://img.shields.io/badge/Learn-gold?style=for-the-badge&label=Ms" target="_blank"
         />
         <img width="12" />
     </a>        
