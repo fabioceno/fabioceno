@@ -36,6 +36,22 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
     style="padding-right: 10px;" 
     src="https://github.com/fabioceno/img/blob/14e9da7c207bc5d8a9154cb9be539fc3b5adccfb/Itil-v3.png" 
 />
+<img 
+    align="left" 
+    alt="NSE 1"
+    title="NSE 1 Fortinet" 
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://github.com/fabioceno/img/blob/8b1cfa94bc66e9aa867533810342ee2600b82de1/nse_1_fortinet.png" 
+/>
+<img 
+    align="left" 
+    alt="Certpro" 
+    title="Lei de Proteção de dados"
+    width="70px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/fabioceno/img/blob/8b1cfa94bc66e9aa867533810342ee2600b82de1/prot_dados.png" 
+/>
 <br/>
 <br/>
 <br/>
