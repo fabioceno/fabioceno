@@ -48,7 +48,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
         <img 
             alt="Microsoft" 
             title="Me siga no Microsoft Learning" 
-            src="https://img.shields.io/badge/Microsoft_Learning-red?style=for-the-badge"target="_blank"
+            src="https://img.shields.io/badge/Microsoft_Learning-red?style=for-the-badge"//target="_blank"
         />
         <img width="12" />
     </a>        
@@ -56,7 +56,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
         <img 
             alt="Gmail" 
             title="Contato" 
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
+            src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=Red" //target="_blank"
         />
         <img width="12" />
     </a>
@@ -64,7 +64,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
         <img 
             alt="Linkedin" 
             title="Envie um Convite!" 
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"//target="_blank"
         />
         <img width="12" />
     </a>
