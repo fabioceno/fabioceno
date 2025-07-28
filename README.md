@@ -16,7 +16,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
     align="left" 
     alt="Azure Fundamentals"
     title="Microsoft Azure Fundamentals" 
-    width="50px" 
+    width="70px" 
     style="padding-right: 20px;" 
     src="https://github.com/fabioceno/img/blob/14fa87bab48b8e8f87185f604ac5a2ebfdf8681e/AZ900.png" 
 />
@@ -24,7 +24,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
     align="left" 
     alt="365 Fundamentals" 
     title="Microsoft 365 Fundamentals"
-    width="50px" 
+    width="70px" 
     style="padding-right: 20px;" 
     src="https://github.com/fabioceno/img/blob/14fa87bab48b8e8f87185f604ac5a2ebfdf8681e/Ms900.png" 
 />
