@@ -54,6 +54,9 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 ## 📡 Rede Sociais 📩 Contatos
 
@@ -142,7 +145,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
         />
       <img width="12" />
 
-## 📚 Conteúdo | Procedimentos
+## 📚 Anotações | Procedimentos
 
 <div align="left">
     <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Azure">
