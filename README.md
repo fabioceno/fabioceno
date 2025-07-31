@@ -145,7 +145,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
         />
       <img width="12" />
 
-## 📚 Anotações | Procedimentos
+## 📚 Anotações | Procedimentos | Troubleshooting
 
 <div align="left">
     <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Azure"style="text-decoration: none;" target="_blank">
