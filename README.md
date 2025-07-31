@@ -64,7 +64,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
             <a href="https://learn.microsoft.com/pt-br/users/fabioceno">
         <img 
             alt="Microsoft" 
-            title="Me siga no Microsoft Learning" src="https://img.shields.io/badge/Learn-gold?style=for-the-badge&label=Ms" target="_blank"
+            title="Me siga no Microsoft Learning" src="https://img.shields.io/badge/Learn-gold?style=for-the-badge&label=Ms" style="text-decoration: none;" target="_blank"
         />
         <img width="12" />
     </a>        
@@ -72,7 +72,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
         <img 
             alt="Gmail" 
             title="Contato" 
-            src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=Red" target="_blank"
+            src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=Red" style="text-decoration: none;" target="_blank"
         />
         <img width="12" />
     </a>
@@ -80,7 +80,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
         <img 
             alt="Linkedin" 
             title="Envie um Convite!" 
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="text-decoration: none;" target="_blank"
         />
         <img width="12" />
     </a>
@@ -92,55 +92,55 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
 <div align="left">
         <img 
             alt="Windows Server" 
-            src="https://img.shields.io/badge/Windows%20Server-darkblue?style=for-the-badge"target="_blank"
+            src="https://img.shields.io/badge/Windows%20Server-darkblue?style=for-the-badge" style="text-decoration: none;" target="_blank"
             title="Windows Server"
             />
         <img width="12" />
         <img 
             alt="PFsense" 
-            src="https://img.shields.io/badge/Pfsense-white?style=for-the-badge&logo=pfsense&logoColor=darkblue"target="_blank"
+            src="https://img.shields.io/badge/Pfsense-white?style=for-the-badge&logo=pfsense&logoColor=darkblue" style="text-decoration: none;" target="_blank"
             title="Firewall PFsense"
         />
         <img width="12" />
         <img 
             alt="Windows 10" 
-            src="https://img.shields.io/badge/Windows%2010-blue?style=for-the-badge"target="_blank"
+            src="https://img.shields.io/badge/Windows%2010-blue?style=for-the-badge" style="text-decoration: none;" target="_blank"
             title="Windows 10 Client"
         />
         <img width="12" />
         <img 
             alt="Windows 11" 
-            src="https://img.shields.io/badge/Windows%2011-lightblue?style=for-the-badge"target="_blank"
+            src="https://img.shields.io/badge/Windows%2011-lightblue?style=for-the-badge" style="text-decoration: none;" target="_blank"
             title="Windows 11 Client"
         />
         <img width="12" />
         <img 
             alt="Hyper V" 
-            src="https://img.shields.io/badge/Hyper%20v-darkgreen?style=for-the-badge"target="_blank"
+            src="https://img.shields.io/badge/Hyper%20v-darkgreen?style=for-the-badge" style="text-decoration: none;" target="_blank"
             title="Microsoft Hyper V"
         />
         <img width="12" />
         <img 
             alt="Windows Admin Center" 
-            src="https://img.shields.io/badge/Windows%20Admin%20Center-grey?style=for-the-badge"target="_blank"
+            src="https://img.shields.io/badge/Windows%20Admin%20Center-grey?style=for-the-badge" style="text-decoration: none;" target="_blank"
             title="Windows Admin Center"
         />
       <img width="12" />
         <img 
             alt="Microsoft Active Directory" 
-            src="https://img.shields.io/badge/Active%20Directory-blue?style=for-the-badge"target="_blank"  
+            src="https://img.shields.io/badge/Active%20Directory-blue?style=for-the-badge"style="text-decoration: none;" target="_blank" 
             title="Microsoft Active Directory"
         />
       <img width="12" />            
         <img 
             alt="Ventoy" 
-            src="https://img.shields.io/badge/Ventoy-darkblue?style=for-the-badge"target="_blank"
+            src="https://img.shields.io/badge/Ventoy-darkblue?style=for-the-badge"style="text-decoration: none;" target="_blank"
             title="Ventoy Bootable"
         />
       <img width="12" />
         <img 
             alt="iVentoy" 
-            src="https://img.shields.io/badge/iVentoy-darkred?style=for-the-badge"target="_blank" 
+            src="https://img.shields.io/badge/iVentoy-darkred?style=for-the-badge" style="text-decoration: none;" target="_blank"
             title="iVentoy Bootable PXE"
         />
       <img width="12" />
@@ -148,136 +148,136 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
 ## 📚 Anotações | Procedimentos
 
 <div align="left">
-    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Azure">
+    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Azure"style="text-decoration: none;" target="_blank">
         <img 
             alt="Microsoft Azure" 
-            title="Alguns procedimentos de Microsoft Azure" src="https://img.shields.io/badge/Ms%20Azure-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos de Microsoft Azure" src="https://img.shields.io/badge/Ms%20Azure-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
-    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Microsoft%20Office">
+    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Microsoft%20Office" style="text-decoration: none;" target="_blank">
         <img 
             alt="Microsoft Office" 
-            title="Alguns procedimentos de Microsoft Office" src="https://img.shields.io/badge/Ms%20Office-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos de Microsoft Office" src="https://img.shields.io/badge/Ms%20Office-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
-    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Microsoft%20Outlook">
+    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Microsoft%20Outlook" style="text-decoration: none;" target="_blank">
         <img 
             alt="Microsoft Outlook" 
-            title="Alguns procedimentos de Microsoft Outlook" src="https://img.shields.io/badge/Ms%20Outlook-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos de Microsoft Outlook" src="https://img.shields.io/badge/Ms%20Outlook-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>    
-    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Microsoft%20Word">
+    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Microsoft%20Word" style="text-decoration: none;" target="_blank">
         <img 
             alt="Microsoft Office Word" 
-            title="Alguns procedimentos de Microsoft Office Word" src="https://img.shields.io/badge/Ms%20Word-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos de Microsoft Office Word" src="https://img.shields.io/badge/Ms%20Word-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
-    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Microsoft%20Excel">
+    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Microsoft%20Excel"style="text-decoration: none;" target="_blank">
         <img 
             alt="Microsoft Office Excel" 
-            title="Alguns procedimentos de Microsoft Office Excel" src="https://img.shields.io/badge/Ms%20Excel-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos de Microsoft Office Excel" src="https://img.shields.io/badge/Ms%20Excel-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
-    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%2011">
+    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%2011"style="text-decoration: none;" target="_blank">
         <img 
             alt="Microsoft Windows 11" 
-            title="Alguns procedimentos de Microsoft Windows 11" src="https://img.shields.io/badge/Ms%20Windows%2011-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos de Microsoft Windows 11" src="https://img.shields.io/badge/Ms%20Windows%2011-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
-    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%2010">
+    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%2010"style="text-decoration: none;" target="_blank">
         <img 
             alt="Microsoft Windows 10" 
-            title="Alguns procedimentos de Microsoft Windows 10" src="https://img.shields.io/badge/Ms%20Windows%2010-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos de Microsoft Windows 10" src="https://img.shields.io/badge/Ms%20Windows%2010-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
-    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%207">
+    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%207"style="text-decoration: none;" target="_blank">
         <img 
             alt="Microsoft Windows 7" 
-            title="Alguns procedimentos de Microsoft Windows 7" src="https://img.shields.io/badge/Ms%20Windows%207-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos de Microsoft Windows 7" src="https://img.shields.io/badge/Ms%20Windows%207-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
-    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/HDW%20Notebooks">
+    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/HDW%20Notebooks"style="text-decoration: none;" target="_blank">
         <img 
             alt="Hardware Notebooks" 
-            title="Alguns procedimentos de manutenção de Notebooks" src="https://img.shields.io/badge/Hdw%20Notebooks-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos de manutenção de Notebooks" src="https://img.shields.io/badge/Hdw%20Notebooks-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
-    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Navegadores">
+    <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Navegadores" style="text-decoration: none;" target="_blank">
         <img 
             alt="Navegadores" 
-            title="Alguns procedimentos navegadores / Browsers" src="https://img.shields.io/badge/Navegadores-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos navegadores / Browsers" src="https://img.shields.io/badge/Navegadores-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
-<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Pfsense">
+<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Pfsense" style="text-decoration: none;" target="_blank">
         <img 
             alt="Pfsense" 
-            title="Alguns procedimentos de Pfsense" src="https://img.shields.io/badge/Pfsense-gray?style=for-the-badge&logo=Pfsense" target="_blank"
+            title="Alguns procedimentos de Pfsense" src="https://img.shields.io/badge/Pfsense-gray?style=for-the-badge&logo=Pfsense"
         />
         <img width="12" />
     </a>
-<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Redes">
+<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Redes" style="text-decoration: none;" target="_blank">
         <img 
             alt="Redes" 
-            title="Alguns procedimentos de Redes" src="https://img.shields.io/badge/Redes-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos de Redes" src="https://img.shields.io/badge/Redes-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
-<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%20Active%20Directory">
+<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%20Active%20Directory"style="text-decoration: none;" target="_blank">
         <img 
             alt="Active Directory" 
-            title="Alguns procedimentos de Active Directory" src="https://img.shields.io/badge/Active%20Directory-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos de Active Directory" src="https://img.shields.io/badge/Active%20Directory-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
-<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%20GPO">
+<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%20GPO" style="text-decoration: none;" target="_blank">
         <img 
             alt="Group Policy Object" 
-            title="Alguns procedimentos de GPO" src="https://img.shields.io/badge/Group%20Policy-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos de GPO" src="https://img.shields.io/badge/Group%20Policy-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
-<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%20Powershell">
+<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%20Powershell"style="text-decoration: none;" target="_blank">
         <img 
             alt="Powershell" 
-            title="Alguns procedimentos de Powershell" src="https://img.shields.io/badge/Powershell-gray?style=for-the-badge&logo=Powershell" target="_blank"
+            title="Alguns procedimentos de Powershell" src="https://img.shields.io/badge/Powershell-gray?style=for-the-badge&logo=Powershell"
         />
         <img width="12" />
     </a>
-<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%20Prompt%20Comando">
+<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%20Prompt%20Comando"style="text-decoration: none;" target="_blank">
         <img 
             alt="Prompt de Comando" 
-            title="Alguns procedimentos de Prompt de Comando" src="https://img.shields.io/badge/Prompt%20Comando-gray?style=for-the-badge&logo=Msdos" target="_blank"
+            title="Alguns procedimentos de Prompt de Comando" src="https://img.shields.io/badge/Prompt%20Comando-gray?style=for-the-badge&logo=Msdos"
         />
         <img width="12" />
     </a>
-<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%20Prompt%20Comando">
+<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%20Prompt%20Comando"style="text-decoration: none;" target="_blank">
         <img 
             alt="Prompt de Comando" 
-            title="Alguns procedimentos de Prompt de Comando" src="https://img.shields.io/badge/Prompt%20Comando-gray?style=for-the-badge&logo=Msdos" target="_blank"
+            title="Alguns procedimentos de Prompt de Comando" src="https://img.shields.io/badge/Prompt%20Comando-gray?style=for-the-badge&logo=Msdos"
         />
         <img width="12" />
     </a>
-<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%20Server">
+<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%20Server"style="text-decoration: none;" target="_blank">
         <img 
             alt="Windows Server" 
-            title="Alguns procedimentos de Windows Server" src="https://img.shields.io/badge/Windows%20Server-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos de Windows Server" src="https://img.shields.io/badge/Windows%20Server-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
-<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%20em%20Geral">
+<a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Windows%20em%20Geral"style="text-decoration: none;" target="_blank">
         <img 
             alt="Windows em Geral" 
-            title="Alguns procedimentos de Windows em geral" src="https://img.shields.io/badge/ms%20Windows-gray?style=for-the-badge" target="_blank"
+            title="Alguns procedimentos de Windows em geral" src="https://img.shields.io/badge/ms%20Windows-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
