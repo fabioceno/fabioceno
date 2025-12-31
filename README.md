@@ -283,8 +283,8 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
     </a>
 <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Tasks"style="text-decoration: none;" target="_blank">
         <img 
-            alt="Tasks" 
-            title="Tasks | Tarefas realizadas" src="https://img.shields.io/badge/Tasks%20%7C%20Tarefas-gray"
+            alt="Tasks | Tarefas" 
+            title="Tasks | Tarefas realizadas" src="https://img.shields.io/badge/Tasks%20%7C%20Tarefas-gray?style=for-the-badge"
         />
         <img width="12" />
     </a>
