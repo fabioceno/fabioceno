@@ -2,7 +2,7 @@
 
 Olá! Obrigado por visitar meu Github.
 
-Sou um profissional com mais de 10 anos como técnico e analista de Suporte de TI com passagem por empresas de renome como [LOTERJ](https://www.loterj.rj.gov.br), [Grupo Fleetcor Brasil](https://www.semparar.com.br), [Sonda IT](https://www.sonda.com/pt) e [Indra Company](https://www.minsait.com/pt). 
+Sou um profissional na área técnica e de analista de Suporte de TI com passagem por empresas de renome como [LOTERJ](https://www.loterj.rj.gov.br), [Grupo Fleetcor Brasil](https://www.semparar.com.br), [Sonda IT](https://www.sonda.com/pt) e [Indra Company](https://www.minsait.com/pt). 
 
 Especializado em suporte técnico, destaco-me em sistemas operacionais e servidores Windows, impressoras e softwares. Experiência abrangente em equipamentos de informática, hardware e software, gestão de usuários no Active Directory e acesso remoto. Proficiente na instalação, configuração, montagem e manutenção, além da elaboração de normas e procedimentos, contribuindo para a eficiência e excelência no suporte TI.
 
