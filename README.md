@@ -1,4 +1,4 @@
-## 💻 Fábio N Silva 💻
+# 💻 Fábio N Silva 💻
 
 Olá! Obrigado por visitar meu Github.
 
@@ -49,13 +49,14 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
     title="Lei de Proteção de dados"
     width="70px" 
     style="padding-right: 20px;" 
-    src="https://github.com/fabioceno/img/blob/8b1cfa94bc66e9aa867533810342ee2600b82de1/prot_dados.png" 
+    src="https://github.com/fabioceno/img/blob/8b1cfa94bc66e9aa867533810342ee2600b82de1/prot_dados.png"/> 
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
-## 📡 Rede Sociais 📩 Contatos
+
+***
+# 📡 Rede Sociais 📩 Contatos
 
 <div align="left">
             <a href="https://learn.microsoft.com/pt-br/users/fabioceno">
@@ -83,6 +84,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
     </a>
     </a>
 </div>
+
 
 ## 👨‍🎓 Conhecimentos
 
