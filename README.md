@@ -1,8 +1,8 @@
-# 💻 Fábio N Silva
+## 💻 Fábio N Silva 💻
 
 Olá! Obrigado por visitar meu Github.
 
-Sou um profissional na área técnica e de analista de Suporte de TI com passagem por empresas de renome como [LOTERJ](https://www.loterj.rj.gov.br), [Grupo Fleetcor Brasil](https://www.semparar.com.br), [Sonda IT](https://www.sonda.com/pt) e [Indra Company](https://www.minsait.com/pt). 
+Sou um profissional na área técnica e de analista de Suporte de TI com passagem por empresas de renome como [LOTERJ](https://www.loterj.rj.gov.br),[Indra Company](https://www.minsait.com/pt),[Grupo Fleetcor Brasil](https://www.semparar.com.br) e [Sonda IT](https://www.sonda.com/pt). 
 
 Especializado em suporte técnico, destaco-me em sistemas operacionais e servidores Windows, impressoras e softwares. Experiência abrangente em equipamentos de informática, hardware e software, gestão de usuários no Active Directory e acesso remoto. Proficiente na instalação, configuração, montagem e manutenção, além da elaboração de normas e procedimentos, contribuindo para a eficiência e excelência no suporte TI.
 
@@ -76,7 +76,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
         />
         <img width="12" />
     </a>
-    <a href="https://www.linkedin.com/in/fabio-nepomuceno">
+    <a href="https://www.linkedin.com/in/fabioceno">
         <img 
             alt="Linkedin" 
             title="Envie um Convite!" 
