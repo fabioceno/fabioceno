@@ -50,14 +50,11 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
     width="70px" 
     style="padding-right: 20px;" 
     src="https://github.com/fabioceno/img/blob/8b1cfa94bc66e9aa867533810342ee2600b82de1/prot_dados.png" 
-/>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
-
 ## 📡 Rede Sociais 📩 Contatos
 
 <div align="left">
