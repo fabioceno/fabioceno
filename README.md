@@ -9,7 +9,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
 ✅ Sou formado em Sistemas da Informação cursado na faculdade [Unigranrio](https://unigranrio.edu.br/).
 
 
-## 🚀 Certificações 🏆
+## 🚀 Certificações 🚀
 
 <img 
     align="left" 
@@ -55,8 +55,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
 <br/>
 <br/>
 
-***
-# 📡 Rede Sociais 📩 Contatos
+## 📡 Rede Sociais 📩 Contatos
 
 <div align="left">
             <a href="https://learn.microsoft.com/pt-br/users/fabioceno">
@@ -86,7 +85,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
 </div>
 
 
-## 👨‍🎓 Conhecimentos
+## 👨‍🎓 Conhecimentos 👨‍🎓
 
 <div align="left">
         <img 
@@ -144,7 +143,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
         />
       <img width="12" />
 
-## 📚 Anotações | Procedimentos | Troubleshooting
+## 📚 Anotações | Procedimentos | Troubleshooting 📚
 
 <div align="left">
     <a href="https://github.com/fabioceno/procedimentos-tecnicos/tree/main/Azure"style="text-decoration: none;" target="_blank">
