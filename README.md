@@ -9,7 +9,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
 ✅ Sou formado em Sistemas da Informação cursado na faculdade [Unigranrio](https://unigranrio.edu.br/).
 
 
-## 🚀 Certificações 🚀
+## 🚀 Certifications | Certificações 🚀
 
 <img 
     align="left" 
@@ -55,7 +55,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
 <br/>
 <br/>
 
-## 📡 Rede Sociais 📩 Contatos
+## 📡 Social media | Rede Sociais 📩 Contacts | Contatos
 
 <div align="left">
             <a href="https://learn.microsoft.com/pt-br/users/fabioceno">
@@ -85,7 +85,7 @@ Especializado em suporte técnico, destaco-me em sistemas operacionais e servido
 </div>
 
 
-## 👨‍🎓 knowledge | Conhecimentos 👨‍🎓
+## 👨‍🎓 Knowledge | Conhecimentos 👨‍🎓
 
 <div align="left">
         <img 
